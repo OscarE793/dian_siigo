@@ -1,0 +1,7 @@
+selenium
+requests
+pandas
+openpyxl
+lxml
+PyMuPDF
+pdfplumber

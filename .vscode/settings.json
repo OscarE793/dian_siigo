@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./dian_siigo/dian_siigo"
+    ]
+}
